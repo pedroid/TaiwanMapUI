@@ -27,7 +27,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://pedroid.github.io/testMap2/",
+  "homepage": "https://pedroid.github.io/testMap3/",
   "eslintConfig": {
     "extends": "react-app"
   },
