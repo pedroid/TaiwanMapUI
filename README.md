@@ -35,7 +35,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```
 
 ### GithubPage Host 
-  先修改 `package.json` 內的 `homepage` 位置
+1. new github repo
+2. git clone <.git>
+3. git remote set-url origin https://github.com/pedroid/testMap3.git
+4.
+  修改 `package.json` 內的 `homepage` 位置
   ```
     {
       ...
